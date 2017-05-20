@@ -14,6 +14,7 @@ pandoc -> tex変換 makefileだけ．
 ## 参考(予定)
 * 差分検知(特に生latex部分の検知)
 	* git を叩く
+	* [goemon+pandocを使う](http://qiita.com/sago35/items/20004723778d60aa95aa)
 	* [ファイル更新監視ツールを作ってみた](http://qiita.com/secondarykey/items/6fa481cbdee24632e80e)
 	* [Golangでファイルの更新を監視してみた](http://kwnktks0515.hatenablog.com/entry/2017/03/07/205142)
 * コンパイルなど(表などのみコンパイルしてPDFとする)
