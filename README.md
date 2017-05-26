@@ -22,6 +22,8 @@ pandoc -> tex変換 makefileだけ．
 * 埋め込み(LATEX的に表示．表などをコンパイルしてPDFを挿入する)
 	* [PDFをHTMLに埋め込む方法](http://3media.biz/web/object-pdf-embed-in-html.html)
 
+* その他
+	* [pandocでmarkdownからgithub風シンタックスハイライトされたhtml生成](http://matsu-chara.hatenablog.com/entry/2013/11/17/114859)
 
 ## Other
 このソフトウェアは以下を利用しています．
