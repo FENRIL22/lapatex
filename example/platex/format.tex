@@ -1,0 +1,44 @@
+\documentclass[11pt,a4paper]{jsarticle}
+%
+\usepackage{amsmath,amssymb}
+\usepackage{bm}
+\usepackage[dvipdfmx]{graphicx} % 画像を出力するパッケージ
+\usepackage{ascmac}
+\usepackage{cases}
+%
+%%--余白関連--------------------------%%
+\setlength{\textwidth}{\fullwidth}
+\setlength{\textheight}{40\baselineskip}
+\addtolength{\textheight}{\topskip}
+\setlength{\voffset}{-0.5in}
+\setlength{\topmargin}{0pt}
+\setlength{\headheight}{0pt}
+\setlength{\headsep}{0pt}
+
+\newcommand{\divergence}{\mathrm{div}\,}  %ダイバージェンス
+\newcommand{\grad}{\mathrm{grad}\,}  %グラディエント
+\newcommand{\rot}{\mathrm{rot}\,}  %ローテーション
+
+
+\newcommand{\e}{\varepsilon}
+\newcommand{\suma}[2]{
+	\sum_{#1}^#2
+}
+\newcommand{\si}{
+	\suma{i=1}{n}
+}
+\newcommand{\aline}[1]{
+	&= #1 \nonumber \\
+}
+%
+\title{へ へ}
+\author{ も }
+%\date{\today}
+\date{2017年05月05日}
+\begin{document}
+\maketitle
+%
+\input{tmp.tex}
+
+%
+\end{document}

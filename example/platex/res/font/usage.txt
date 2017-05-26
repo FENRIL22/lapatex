@@ -1,0 +1,1 @@
+基本的には.latexmkの設定で、このファイルの設定に従って自動で埋め込みが行われるが、[IPAフォント](http://ipafont.ipa.go.jp/old/ipafont/download.html)が無い場合はここからダウンロードして入れておく。
